@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rasyidfox
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Malware Analysis and Python
 - 😄 I'm natively speak Indonesian and little beat speak english.
 
 
