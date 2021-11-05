@@ -11,8 +11,10 @@
 - 🌱 I’m currently **learning Networking, Forensics, SysAdmin**. <img align="right" style="width:13rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 
 - 👀 I’m interested in **Information Technology**
-- 💬 Ask me about anything, I am happy to help,
-- 😄 I'm natively speak **Indonesian**.
+
+- ⚡ Fun fact **I'm very interested in Blue Team Operations**.
+
+- 💬 Ask me about anything, I am happy to help
 <br>
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=rasyidfox&hide=[%22issues%22]&show_icons=true">
