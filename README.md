@@ -17,10 +17,12 @@
 - 💬 Ask me about anything, I am happy to help
 <br>
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=rasyidfox&hide=[%22issues%22]&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rasyidfox&hide=[%22issues%22]&show_icons=true"></p>
 <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rasyidfox">
 </p>
----
+
+### Contribution :
+<img src="https://activity-graph.herokuapp.com/graph?username=rasyidfox&theme=xcode&area=true">
 <!---
 rasyidfox/rasyidfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
