@@ -1,28 +1,12 @@
+### Hi there, I'm Rasyidfox <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 <p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Engineering;Cyber+Security+Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rasyidfox</h1>
-<h3 font-size="20" align="center">Cyber Security Enthusiast | Computer Engineering.</h3>
-<p><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103" width=90px></a>
-<img src="https://img.shields.io/badge/Os-Debian-a80030" width=55px>
-<img src="https://img.shields.io/github/followers/rasyidfox?color=%234CC61E&label=GitHub%20Followers%20%3A" width=95px>
-<img src="https://views.whatilearened.today/views/github/rasyidfox/views.svg" width=44px></p>
+<hr>
 
-- 🌱 I’m currently **learning Networking, Forensics, SysAdmin**. <img align="right" style="width:13rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👀 I’m interested in **Information Technology**
-
-- ⚡ Fun fact **I'm very interested in Blue Team Operations**.
-
+- 🔭 I've interest on **Blue Team Operations**.
 - 💬 Ask me about anything, I am happy to help
-<br>
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=rasyidfox&hide=[%22issues%22]&show_icons=true"></p>
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rasyidfox">
-</p>
 
-### Contribution :
-<img src="https://activity-graph.herokuapp.com/graph?username=rasyidfox&theme=xcode&area=true">
 <!---
 rasyidfox/rasyidfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
